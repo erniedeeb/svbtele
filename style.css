@@ -1,9 +1,12 @@
+<head>
+
 h1, h2
 	{
-		font-family: sans-serif;
+		font-family: 'Nunito Sans', sans-serif;
 	}
 
-div
+.content
 	{
 		max-width: 740px;
+		margin:auto;
 	}
