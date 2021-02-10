@@ -1,6 +1,11 @@
-<head>
+<style>
 
-h1, h2
+h1 
+	{
+		font-family: 'Nunito Sans', sans-serif;
+	}
+
+h2
 	{
 		font-family: 'Nunito Sans', sans-serif;
 	}
