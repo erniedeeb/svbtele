@@ -3,13 +3,13 @@
 h1 
 	{
 		font-family: 'Nunito Sans', sans-serif;
-		font-size: 48px;
+		font-size: 40px;
 	}
 
 h2
 	{
 		font-family: 'Nunito Sans', sans-serif;
-		font-size: 36px;
+		font-size: 30px;
 	}
 
 img
@@ -23,3 +23,8 @@ img
 		max-width: 740px;
 		margin: auto;
 	}
+
+hr
+ {
+ 	color: #eeeeee;
+ }
