@@ -28,6 +28,13 @@ img.body
 		margin: auto;
 	}
 
+figcaption
+	{
+		color: #eeeeee;
+		font-size: 10px;
+		font-style: italic;
+	}
+
 .content
 	{
 		max-width: 640px;
