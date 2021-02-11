@@ -17,13 +17,14 @@ h2
 img.lead
 	{
 		display:block;
-		width: 95%;
+		max-width: 800px;
 		margin: auto;
 	}
 
 img.body
 	{
 		display: block;
+		width: 100%;
 		max-width: 640px;
 		margin: auto;
 	}
