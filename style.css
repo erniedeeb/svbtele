@@ -15,8 +15,9 @@ h2
 img.lead
 	{
 		display:block;
+		width: 90%;
 		max-width: 800px;
-		margin-left: 20%;
+		margin: auto;
 	}
 
 img.body
