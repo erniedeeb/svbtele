@@ -19,6 +19,7 @@ figure.lead
 		display:block;
 		width: 95%;
 		margin: auto;
+		text-align: center;
 	}
 
 figure.body
@@ -26,6 +27,7 @@ figure.body
 		display: block;
 		max-width: 640px;
 		margin: auto;
+		text-align: center;
 	}
 
 figcaption
