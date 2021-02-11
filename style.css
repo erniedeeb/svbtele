@@ -80,13 +80,27 @@
 			display:block;
 			max-width: 100%;
 			margin: auto;
+			left: 50%;
+			margin-left: -50vw;
+			margin-right: -50vw;
+			max-width: 100vw;
+			position: relative;
+			right: 50%;
+			width: 100vw;
 		}
 
 	img.body
 		{
 			display: block;
-			max-width: 10%;
+			max-width: 100%;
 			margin: 0;
+			left: 50%;
+			margin-left: -50vw;
+			margin-right: -50vw;
+			max-width: 100vw;
+			position: relative;
+			right: 50%;
+			width: 100vw;
 		}
 
 	img.break
