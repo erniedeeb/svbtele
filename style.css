@@ -14,14 +14,14 @@ h2
 		font-weight: 700;
 	}
 
-img.lead
+figure.lead
 	{
 		display:block;
 		width: 95%;
 		margin: auto;
 	}
 
-img.body
+figure.body
 	{
 		display: block;
 		max-width: 640px;
