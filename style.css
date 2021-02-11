@@ -29,6 +29,14 @@ img.body
 		margin: auto;
 	}
 
+img.break
+	{
+		display: block;
+		width: 50%;
+		max-width: 640px;
+		margin: auto;
+	}
+
 figcaption
 	{
 		color: #7e7e7e;
