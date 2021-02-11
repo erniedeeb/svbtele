@@ -12,16 +12,23 @@ h2
 		font-size: 30px;
 	}
 
-img
+img.lead
+	{
+		display:block;
+		max-width: 800px;
+		margin: auto;
+	}
+
+img.body
 	{
 		display: block;
-		max-width: 800px;
+		max-width: 640px;
 		margin: auto;
 	}
 
 .content
 	{
-		max-width: 636px;
+		max-width: 640px;
 		margin: auto;
 	}
 
