@@ -104,3 +104,15 @@
 	 		margin-top: 0px;
 	 	}
 
+	.content
+		{
+			width: 95%;
+			margin: auto;
+		}
+
+	.top
+		{
+			width: 95%;
+			margin: auto;
+
+		}
