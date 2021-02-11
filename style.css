@@ -14,7 +14,7 @@ h2
 		font-weight: 700;
 	}
 
-figure.lead
+img.lead
 	{
 		display:block;
 		width: 95%;
@@ -22,7 +22,7 @@ figure.lead
 		text-align: center;
 	}
 
-figure.body
+img.body
 	{
 		display: block;
 		max-width: 640px;
@@ -49,15 +49,6 @@ figcaption
 		margin: auto;
 
 	}
-
-iframe
-	{
-		display: block;
-		width: 640px;
-		height: 480px;
-		margin: auto;
-		border: none;
-}
 
 hr
  {
