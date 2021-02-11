@@ -32,6 +32,13 @@ img.body
 		margin: auto;
 	}
 
+iframe
+	{
+		display: block;
+		max-width: 640px;
+		margin: auto;
+}
+
 hr
  {
  	color: #eeeeee;
