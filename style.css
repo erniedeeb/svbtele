@@ -30,9 +30,10 @@ img.body
 
 figcaption
 	{
-		color: #eeeeee;
-		font-size: 10px;
+		color: #999999;
+		font-size: 14px;
 		font-style: italic;
+		text-align: center;
 	}
 
 .content
