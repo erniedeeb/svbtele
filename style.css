@@ -19,7 +19,6 @@ img.lead
 		display:block;
 		width: 95%;
 		margin: auto;
-		text-align: center;
 	}
 
 img.body
@@ -27,7 +26,6 @@ img.body
 		display: block;
 		max-width: 640px;
 		margin: auto;
-		text-align: center;
 	}
 
 figcaption
@@ -35,6 +33,7 @@ figcaption
 		color: #7e7e7e;
 		font-style: italic;
 		text-align: center;
+		margin-top: 5px;
 	}
 
 .content
