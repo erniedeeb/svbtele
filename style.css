@@ -15,8 +15,7 @@ h2
 img.lead
 	{
 		display:block;
-		width: 90%;
-		max-width: 800px;
+		width: 95%;
 		margin: auto;
 	}
 
@@ -31,6 +30,13 @@ img.body
 	{
 		max-width: 640px;
 		margin: auto;
+	}
+
+.top
+	{
+		max-width: 800px;
+		margin: auto;
+
 	}
 
 iframe
